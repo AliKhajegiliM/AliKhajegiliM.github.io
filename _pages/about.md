@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me :)"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Pursuing a PhD has always been a dream come true for me, and I am currently a second-year student at the University of British Columbia, focusing on bioinformatics and computational pathology. My primary research interest lies in exploring metastatic cancers and discovering novel patterns using artificial intelligence. I believe that AI has the potential to revolutionize healthcare and make a profound impact on patients' lives, which is why I am passionate about developing AI-based tools to advance our understanding of cancer.
+Before joining UBC, I completed a double-major undergraduate degree at the Isfahan University of Technology, an institution nestled in the picturesque city of Isfahan, renowned for its rich history and stunning architecture. There, I delved into the fascinating worlds of Electrical Engineering and Applied Mathematics, developing a deep appreciation for the elegance of mathematics and its applications in the realm of life sciences.
+My academic journey at UBC has allowed me to combine my engineering and mathematical backgrounds, opening doors to the exciting field of bioinformatics. I am grateful for the opportunity to contribute to such a vital area of research, and I am passionate about using my skills to make a meaningful difference in the fight against cancer. In my spare time, I enjoy exploring the natural beauty of British Columbia and immersing myself in the vibrant culture that Vancouver has to offer.
 
 A data-driven personal website
 ======
