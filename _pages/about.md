@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me :)"
+title: "🤓 About me :)"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,17 +8,18 @@ redirect_from:
 ---
 
 <div style="text-align: justify;">
-Pursuing a PhD has always been a dream come true for me, and I am currently a second-year student at the University of British Columbia, focusing on bioinformatics and computational pathology. My primary research interest lies in exploring metastatic cancers and discovering novel patterns using artificial intelligence. I believe that AI has the potential to revolutionize healthcare and make a profound impact on patients' lives, which is why I am passionate about developing AI-based tools to advance our understanding of cancer.<br>
-Before joining UBC, I completed a double-major undergraduate degree at the Isfahan University of Technology, an institution nestled in the picturesque city of Isfahan, renowned for its rich history and stunning architecture. There, I delved into the fascinating worlds of Electrical Engineering and Applied Mathematics, developing a deep appreciation for the elegance of mathematics and its applications in the realm of life sciences.<br>
-My academic journey at UBC has allowed me to combine my engineering and mathematical backgrounds, opening doors to the exciting field of bioinformatics. I am grateful for the opportunity to contribute to such a vital area of research, and I am passionate about using my skills to make a meaningful difference in the fight against cancer. In my spare time, I enjoy exploring the natural beauty of British Columbia and immersing myself in the vibrant culture that Vancouver has to offer.</div>
-<br><br>
+Pursuing a PhD has always been a dream come true for me, and I am currently a second-year student at the University of British Columbia, focusing on bioinformatics and computational pathology. My primary research interest lies in exploring metastatic cancers and discovering novel patterns using artificial intelligence. I believe that AI has the potential to revolutionize healthcare and make a profound impact on patients' lives, which is why I am passionate about developing AI-based tools to advance our understanding of cancer.
+<br>
+Before joining UBC, I completed a double-major undergraduate degree at the Isfahan University of Technology, an institution nestled in the picturesque city of Isfahan, renowned for its rich history and stunning architecture. There, I delved into the fascinating worlds of Electrical Engineering and Applied Mathematics, developing a deep appreciation for the elegance of mathematics and its applications in the realm of life sciences.
+<br>
+My academic journey at UBC has allowed me to combine my engineering and mathematical backgrounds, opening doors to the exciting field of bioinformatics. I am grateful for the opportunity to contribute to such a vital area of research, and I am passionate about using my skills to make a meaningful difference in the fight against cancer. During my research journeys, I find joy in working with vision foundation models and large language models, exploring their capabilities and striving to integrate them into mathematically explainable frameworks. Understanding the underlying mathematics behind these models is a key aspect that intrigues me. 
+</br>
+When I'm not delving into research, I can be found exploring the stunning natural landscapes of British Columbia or immersing myself in Vancouver's rich cultural scene 😀. I'm also a dedicated gym-goer, spending four days a week lifting weights and pushing my physical strength 🏋️. Another one of my joys is cooking, as I love crafting protein-rich meals and experimenting with new recipes in the kitchen</div>
+<br>
 
-
-A data-driven personal website
+💻 My Research:
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
 Getting started
 ======
