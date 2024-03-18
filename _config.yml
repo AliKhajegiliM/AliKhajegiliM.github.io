@@ -47,22 +47,22 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "#bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"#bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        :  "@ali_khajegili_m"
+  instagram        :  "ali_khajegili_m"
   lastfm           : # Username
-  linkedin         :  "alikhajegili"
+  linkedin         :  "ali-khajegili"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
-  telegram         :  "@ali_khajegili_m"
+  telegram         :  "ali_khajegili_m"
   tumblr           : # Username
   twitter          : "alikhajegilim"  # Replace this with your X / Twitter handle
   vine             : # Username
