@@ -14,7 +14,7 @@ Before joining UBC, I completed a double-major undergraduate degree at the Isfah
 <br>
 My academic journey at UBC has allowed me to combine my engineering and mathematical backgrounds, opening doors to the exciting field of bioinformatics. I am grateful for the opportunity to contribute to such a vital area of research, and I am passionate about using my skills to make a meaningful difference in the fight against cancer. During my research journeys, I find joy in working with vision foundation models and large language models, exploring their capabilities and striving to integrate them into mathematically explainable frameworks. Understanding the underlying mathematics behind these models is a key aspect that intrigues me. 
 <br>
-When I'm not delving into research, I can be found exploring the stunning natural landscapes of British Columbia or immersing myself in Vancouver's rich cultural scene 😀. I'm also a dedicated gym-goer, spending four days a week lifting weights and pushing my physical strength 🏋️. Another one of my joys is cooking, as I love crafting protein-rich meals and experimenting with new recipes in the kitchen</div>
+When I'm not delving into research, I can be found exploring the stunning natural landscapes of British Columbia or immersing myself in Vancouver's rich cultural scene 😀. I'm also a dedicated gym-goer, spending four days a week lifting weights and pushing my physical strength 🏋️. Another one of my joys is cooking, as I love crafting protein-rich meals and experimenting with new recipes in the kitchen.</div>
 <br>
 
 <!--

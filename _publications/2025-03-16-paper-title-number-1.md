@@ -1,10 +1,10 @@
 ---
-title: "GRASP : GRAph-Structured Pyramidal Whole Slide Image Representation"
+title: "Boltzmann Semantic Score"
 collection: publications
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: publications/2025-03-16-paper-title-number-1
 excerpt: 'This paper is about representing WSIs in a multi-magnification setting.'
 date: 2024-02-17
-venue: 'Arxiv; Submitted to ECCV'
+venue: 'ICLR 2025'
 paperurl: 'https://arxiv.org/abs/2402.03592'
 citation: 'Mirabadi AK, Archibald G, Darbandsari A, Contreras-Sanz A, Nakhli RE, Asadi M, Zhang A, Gilks CB, Black P, Wang G, Farahani H. GRASP: GRAph-Structured Pyramidal Whole Slide Image Representation. arXiv preprint arXiv:2402.03592. 2024 Feb 6.'
 ---
