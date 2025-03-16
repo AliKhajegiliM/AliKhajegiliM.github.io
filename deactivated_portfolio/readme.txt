@@ -1,1 +1,2 @@
 remove 'deactivated' from the name of the folder and it will be back to the webpage.
+uncomment the asssociated things to this to bring portfolio back: /Users/ali/github_webpage/AliKhajegiliM.github.io/_data/navigation.yml
