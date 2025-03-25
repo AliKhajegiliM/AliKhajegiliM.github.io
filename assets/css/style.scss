@@ -1,0 +1,93 @@
+---
+---
+
+@import "jekyll-theme-minimal";
+
+
+/* 1) Optionally import Google Fonts directly in SCSS */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+
+/* 2) Define custom CSS variables for consistent theming */
+:root {
+  --primary-color: #1e90ff;
+  --text-color: #333333;
+  --background-color: #ffffff;
+  --border-color: #dddddd;
+  --heading-color: #000000;
+  --main-font: 'Roboto', sans-serif;
+}
+
+/* 3) Override default body styles */
+body {
+  font-family: var(--main-font);
+  background-color: var(--background-color);
+  color: var(--text-color);
+  line-height: 1.7;
+  margin: 0;
+  padding: 0;
+}
+
+/* 4) Improve the navbar look */
+.navbar {
+  background-color: #f8f8f8;
+  border-bottom: 1px solid var(--border-color);
+  padding: 0.5rem 0;
+}
+
+.navbar nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center; /* or flex-start if you prefer left-aligned */
+  margin: 0;
+  padding: 0;
+}
+
+.navbar nav ul li {
+  margin: 0 1rem;
+}
+
+.navbar nav ul li a {
+  text-decoration: none;
+  color: var(--text-color);
+  padding: 0.5rem 0;
+  transition: color 0.2s;
+}
+
+.navbar nav ul li a:hover {
+  color: var(--primary-color);
+}
+
+/* 5) Constrain main content for better readability */
+main {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+
+/* 6) Headings */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--heading-color);
+  margin-bottom: 1rem;
+}
+
+/* 7) Footer styling */
+footer {
+  text-align: center;
+  margin-top: 2rem;
+  font-size: 0.9rem;
+  color: #999;
+}
+
+/* 8) Media query for responsiveness */
+@media (max-width: 768px) {
+  .navbar nav ul {
+    flex-direction: column;
+    align-items: center;
+  }
+  .navbar nav ul li {
+    margin: 0.5rem 0;
+  }
+  main {
+    padding: 0 1rem;
+  }
+}
