@@ -11,8 +11,11 @@ redirect_from:
 
 Education
 ======
+
 * Ph.D. Candidate in Bioinformatics and Computational Pathology, University of British Columbia
 * B.Sc. in Electrical Engineering and Applied Mathematics, Isfahan University of Technology
+=======
+
 
 Experience
 ======
