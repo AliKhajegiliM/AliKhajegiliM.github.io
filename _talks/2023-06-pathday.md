@@ -8,6 +8,4 @@ date: 2023-06-01
 location: "Vancouver, Canada"
 ---
 
-[More information here](http://exampleurl.com)
-
-To be Updated!
+Topic: GRASP: GRAph-Structured Pyramidal Whole Slide Image Representation!
