@@ -22,9 +22,9 @@ Experience
 
 Research Interests
 ======
-* Artificial intelligence for cancer research
-* Vision foundation models and large language models
-* Mathematically explainable approaches in computational pathology
+* Machine Learning: Multi-Modal Representation and Semantic Representation
+* Large Vision and Language Foundation Models 
+* Mathematical Modeling and Computational Pathology 
 
 Publications
 ======
